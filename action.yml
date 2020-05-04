@@ -1,4 +1,4 @@
-name: "@brockmdavis AWS S3 sync"
+name: "brockmdavis-s3-sync"
 description: "Syncs dist folder to S3"
 author: brockmdavis
 runs:
